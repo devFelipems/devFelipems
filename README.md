@@ -1,7 +1,7 @@
 
 ### Hello! I am Felipe Mendonça 👍
 
-Olá! Sou Felipe, estudante de Análise e Desenvolvimento de Sistemas com 21 anos, focado em transformar ideias em soluções práticas. Nos meus projetos, exploro desde a criação de páginas web interativas e integração com APIs até funcionalidades de suporte técnico. Atualmente, estou aprimorando minhas habilidades em JavaScript e desenvolvimento full-stack, sempre buscando inovação e desafios para elevar minha experiência na área de TI. Acredito no poder da tecnologia para melhorar vidas e estou animado para contribuir com soluções criativas e eficazes!
+Olá! Sou Felipe, estudante de Análise e Desenvolvimento de Sistemas com 21 anos, focado em transformar ideias em soluções práticas. Nos meus projetos, exploro desde a criação de páginas web interativas e integração com APIs até o desenvolvimento backend. Atualmente, estou aprimorando minhas habilidades em JavaScript e desenvolvimento full-stack, sempre buscando inovação e desafios para elevar minha experiência na área de TI. Acredito no poder da tecnologia para melhorar vidas e estou animado para contribuir com soluções criativas e eficazes!
 
 <img align="center" alt="gif" src="https://media.discordapp.net/attachments/1137069071582642269/1303112589726978078/2ee88bf78e4f76001f59bad5e91a6a03.gif?ex=672a91ac&is=6729402c&hm=ed3aa059416962f2c41ab86ac1b3cc4a3b5e36354055825c69304f4d50ddc9ed&="/>
 
